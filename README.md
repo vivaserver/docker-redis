@@ -8,3 +8,11 @@ The Docker image is also available for pulling from the [Docker Hub](vsrv):
 
 [glid]: https://registry.hub.docker.com/u/gliderlabs/alpine/
 [vsrv]: https://registry.hub.docker.com/u/vivaserver/redis/
+
+## License
+
+Released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+## Copyright
+
+(c)2015 [Cristian R. Arroyo](mailto:cristian.arroyo@vivaserver.com)
